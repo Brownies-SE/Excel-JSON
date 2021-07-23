@@ -1,0 +1,14 @@
+{
+  "name": "json_excel",
+  "version": "1.0.0",
+  "description": "Json_to_excel",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.17.0"
+  }
+}
